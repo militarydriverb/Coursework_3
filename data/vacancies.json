@@ -251,5 +251,2304 @@
         },
         "url": "https://hh.ru/vacancy/129045341",
         "description": "Опыт продуктовой разработки на <highlighttext>Python</highlighttext>3. Опыт работы с Django, DRF. Опыт работы с Celery. Опыт работы с MySQL, Elasticsearch. "
+    },
+    {
+        "name": "Backend-разработчика (PHP)",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129615455",
+        "description": "Опыт работы от 3-х лет. Высшее техническое образование. Отличное знание PHP. Знание MySQL. Знание Yii2, Symfony. "
+    },
+    {
+        "name": "Front-end Developer / Front-end разработчик (middle)",
+        "salary": {
+            "from": 230000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129596390",
+        "description": "Знание Webpack (установка, конфигурация, запуск). Работа с браузером: инструменты <highlighttext>разработчика</highlighttext> (DevTools), консоль, инспектор элементов. Навыки отладки и тестирования фронтенда в..."
+    },
+    {
+        "name": "Python developer / Разработчик Python",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129606910",
+        "description": "Уверенные знания Python3 (3.8+) на разработке веб-проектов - конкретный опыт реализации в реальном мире (с реальными пользователями). "
+    },
+    {
+        "name": "C#/.NET-разработчик",
+        "salary": {
+            "from": null,
+            "to": 270000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129615324",
+        "description": "Опыт работы от 4х лет со стеком технологий: C#, .Net Core, .Net Framework, MS SQL, Kafka, Redis, Rabbit MQ..."
+    },
+    {
+        "name": "Java-разработчик",
+        "salary": {
+            "from": 250000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129584233",
+        "description": "Опыт разработки на Java от 3 лет. Уверенно владеете языком Java и понимаете основы ООП. Знаете фреймворки Spring и Spring..."
+    },
+    {
+        "name": "Midle Java Developer (Spring Boot)",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129587709",
+        "description": "Аналитический склад ума, внимательность к деталям, нацеленность на результат, умение работать в команде, проактивность. Ответственность, инициативность, умение самостоятельно решать проблемы..."
+    },
+    {
+        "name": "Java-разработчик",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129591478",
+        "description": "Опыт работы с Java от 5-лет. Знание фреймворка Spring. Опыт создания сервисов с нуля с использованием чистой архитектуры. "
+    },
+    {
+        "name": "Разработчик Laravel (Junior)",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129579136",
+        "description": "Понимание работы основных механизмов Laravel. - Базовые знания PHP. - Понимание принципов работы с базами данных (MariaDB/MySQL). - Опыт работы с REST..."
+    },
+    {
+        "name": "Ассистент разработчика",
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129603817",
+        "description": "Проактивность: умение проявлять инициативу. Готовность взаимодействовать с несколькими проектами параллельно (менеджеры, <highlighttext>разработчики</highlighttext>, аналитики, технические специалисты). Умение быстро погружаться в новый..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "salary": {
+            "from": 260000,
+            "to": 320000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129558454",
+        "description": "Участвовать в выстраивании и развитии архитектуры фронтенда (опыт с FSD будет плюсом). Рефакторинг старых слоев приложения под новую архитектуру. "
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "salary": {
+            "from": 230000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129604802",
+        "description": "Опыт с React от 5 лет. Знание Storybook или аналогов. Опыт работы с HTML. Интеграция с backend через REST(GraphQL). "
+    },
+    {
+        "name": "Senior Backend Engineer / Старший бэкэнд разработчик",
+        "salary": {
+            "from": 5000,
+            "to": 12000,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129599453",
+        "description": "7+ years of backend or data engineering experience. Proficiency with Python, Node.js, TypeScript, and PostgreSQL. Extensive experience with AWS..."
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": {
+            "from": 4000,
+            "to": 5500,
+            "currency": "EUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129608812",
+        "description": "Коммерческий опыт разработки от 5 лет. Отличные знания Python 3.x и Django. Опыт проектирования и разработки сложных высоконагруженных систем. "
+    },
+    {
+        "name": "Fullstack-разработчик (Frontend-фокус, Junior–Middle)",
+        "salary": {
+            "from": 80000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129591590",
+        "description": "Опыт коммерческой разработки (или уверенные pet-проекты). Уверенное владение JavaScript / TypeScript. Опыт работы с React (желательно Next.js). Понимание работы с..."
+    },
+    {
+        "name": "Программист",
+        "salary": {
+            "from": 130000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128663395",
+        "description": "Опыт коммерческой разработки или тестирования от 2 лет. Знание одного из языков/стеков: PHP, Python, JavaScript (React) или инструментов автоматизации..."
+    },
+    {
+        "name": "Senior JavaScript разработчик",
+        "salary": {
+            "from": null,
+            "to": 270000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129596424",
+        "description": "Опыт работы в роли Lead/Senior/Tech Lead Frontend <highlighttext>Developer</highlighttext> от 1-2 лет. Глубокие знания React. Отличное понимание жизненного..."
+    },
+    {
+        "name": "Middle+ Python-разработчик",
+        "salary": {
+            "from": 180000,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129606201",
+        "description": "Опыт коммерческой разработки на Python от 3 лет. Практическое понимание разработки в микросервисной архитектуре, дебаггинга. Практическое понимание работы с асинхронностью..."
+    },
+    {
+        "name": "Vue frontend разработчик в Startup team",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129609492",
+        "description": "Что ты будешь делать: Стек: Vue.js, Nuxt.js, Sass, Webpack, REST, CSS, HTML. Отлично знаешь JavaScript/TypeScript, HTML, CSS. "
+    },
+    {
+        "name": "Java Backend Developer (Junior+/Middle-)",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129561564",
+        "description": "СТРОГО ОКОНЧЕННОЕ ВЫСШЕЕ ОБРАЗОВАНИЕ!!! Технические навыки. Опыт коммерческой разработки 2+ года. Понимание ООП, SOLID, паттернов проектирования. Умение писать чистый..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129583825",
+        "description": "Core: HTML, CSS/SCSS, JS, TS.  Frameworks and Libraries: React, Next.js.  Build Tools: Babel, Webpack, NPM, Vite.  Authentication: JWT, Cookies.  "
+    },
+    {
+        "name": "Middle Backend Go Разработчик (high risk)",
+        "salary": {
+            "from": 180000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129607661",
+        "description": "Опыт коммерческой разработки на Go от 4 лет (и от 2 лет в хайриске). Глубокое понимание микросервисной архитектуры и паттернов..."
+    },
+    {
+        "name": "Разработчик ЦФТ-Банк",
+        "salary": {
+            "from": 362000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129603778",
+        "description": "Высшее (техническое, математическое) образование. Опыт разработки функционала на платформе развития ЦФТ-Банк. Опыт разработки в среде ORACLE или иных средах..."
+    },
+    {
+        "name": "React Developer",
+        "salary": {
+            "from": 2000,
+            "to": 4500,
+            "currency": "EUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129520787",
+        "description": "Опыт работы с TypeScript, React, NextJS. Radix UI, Axios, Zustand, scss modules, Storybook. Опыт работы с CI/CD. "
+    },
+    {
+        "name": "Junior Backend-разработчик (Golang)",
+        "salary": {
+            "from": 60000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129520858",
+        "description": "Опыт разработки на Go от 3 месяцев или наличие нескольких серьезных pet-проектов. Знание принципов построения отказоустойчивых backend-систем. "
+    },
+    {
+        "name": "Fullstack Developer / Fullstack разработчик",
+        "salary": {
+            "from": 230000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129597104",
+        "description": "Хорошее знание PHP (8.x и выше). Опыт работы с Yii2 (структура фреймворка, MVC, компоненты, модули). Создание и поддержка..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129610910",
+        "description": "Опыт работы на аналогичной должности - от 1-го года. Обязательное наличие 1С: Специалист, 1С: Профессионал. Большой практический опыт..."
+    },
+    {
+        "name": "PHP-разработчик (фронтенд)",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129602370",
+        "description": "LAMP/LEMP стек. SQL (MySQL, MariaDB, PostgreSQL). JavaScript. Навыки code review. Опыт работы с AI-powered инструментами разработки (Github copilot..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "salary": {
+            "from": null,
+            "to": 340000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/117071187",
+        "description": "TypeScript. React + RTQ + Redux. REST API, GraphQL, WebSocket. Кроссбраузерная, адаптивная вёрстка с использованием HTML5 и CSS3. "
+    },
+    {
+        "name": "Программист-разработчик Python",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129530149",
+        "description": "Опыт коммерческой разработки на Python от 2-х лет. Инженерно-техническое образование. Знание SQL и ORM. Опыт работы с СУБД..."
+    },
+    {
+        "name": "Разработчик Flutter",
+        "salary": {
+            "from": 200000,
+            "to": 280000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129600966",
+        "description": "Опыт работы с Flutter и развертыванием приложений на iOS. Знание основных принципов разработки мобильных приложений. Опыт разработки мобильных приложений от..."
+    },
+    {
+        "name": "Python-разработчик (в Data Science департамент)",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129589230",
+        "description": "Опыт коммерческой разработки от 3 лет. Умение работать с системой контроля версий Git. Хорошее владение Python: умение писать чистый читаемый..."
+    },
+    {
+        "name": "Программист python",
+        "salary": {
+            "from": 70000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129522611",
+        "description": "Знание Python и опыт написания скриптов. Понимание работы с API. Умение автоматизировать задачи. Ответственность и внимательность к деталям."
+    },
+    {
+        "name": "Backend разработчик (Middle/Senior)",
+        "salary": {
+            "from": 180000,
+            "to": 290000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129589464",
+        "description": "6. Понимание принципов ООП, MVC, шаблонов проектирования."
+    },
+    {
+        "name": "Java-разработчик",
+        "salary": {
+            "from": 230000,
+            "to": 330000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129526610",
+        "description": "Высшее техническое образование. Опыт коммерческой разработки на Java применением технологий: Spring, SpringBoot, Hibernate. Опыт работы с XML/XSLT. "
+    },
+    {
+        "name": "Младший Android-разработчик",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129602479",
+        "description": "Опыт разработки на Kotlin (в том числе учебные проекты). Понимание принципов ООП и знание архитектурных шаблонов (например, MVVM). "
+    },
+    {
+        "name": "Инженер-программист станков с ЧПУ (фрезерные станки с ЧПУ)",
+        "salary": {
+            "from": 200000,
+            "to": 260000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129539580",
+        "description": "Опыт работы в данной должности на машиностроительном производстве не менее 3-х лет. Среднее техническое или высшее (профильное) образование. "
+    },
+    {
+        "name": "Разработчик 1С",
+        "salary": {
+            "from": 200000,
+            "to": 260000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129587079",
+        "description": "Опыт внедрения и доработок автоматизированных систем на базе 1С. Опыт работы в качестве администратора с различными конфигурациями 1С..."
+    },
+    {
+        "name": "Программист ORACLE",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129297389",
+        "description": "Опыт работы с СУБД Oracle PL/SQL в роли <highlighttext>разработчика</highlighttext> от 5 лет. Опыт решения задач по проектированию баз данных. "
+    },
+    {
+        "name": "Middle+ / Senior С# разработчик",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129605687",
+        "description": "Опыт коммерческой разработки на C# от 3–4 лет (Middle) / от 5–7 лет (Senior/Lead). Отличное знание .NET / .NET..."
+    },
+    {
+        "name": "Middle+ PHP / Fullstack Developer",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129524288",
+        "description": "4+ года коммерческого опыта программирования на PHP. Опыт работы с PHP 7.4 и выше. Уверенное владение одним из..."
+    },
+    {
+        "name": "C#/.NET-разработчик",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129363900",
+        "description": "Опыт работы от двух лет со стеком: C#/.Net. WPF. ASP.NET. Стек проекта: микросервисы, C#, ASP.NET, PostgreSQL, Docker, Kubernetes, GitLab..."
+    },
+    {
+        "name": "Middle Фронтенд разработчик (Angular)",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129615727",
+        "description": "Есть высшее техническое образование, но это не критично. Твои обязательные навыки должны быть: Работа на аналогичной должности не менее 2..."
+    },
+    {
+        "name": "Инженер-программист",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129581317",
+        "description": "Знание языка C# и платформы .NET. Знание принципов ООП, SOLID. Опыт работы с WPF и/или Avalonia. Опыт работы с..."
+    },
+    {
+        "name": "Backend-разработчик GO Senior",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129522775",
+        "description": null
+    },
+    {
+        "name": "Младший Go-разработчик",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129602510",
+        "description": "Опыт программирования на Go (pet-проекты, курсы или первая коммерция). Понимание ООП, алгоритмов и структур данных. Знание REST, понимание принципов..."
+    },
+    {
+        "name": "Ведущий Web-разработчик",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129143539",
+        "description": "Знание верстки и бэкэнда. Знание Bitrix, Laravel, React. Уверенное знание PHP, Javascript, MySQL, HTML, CSS (адаптивная верстка) и кроссбраузерности. "
+    },
+    {
+        "name": "Младший разработчик (fullstack: javascript, java)",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129585009",
+        "description": "...умение находить решения сложных алгоритмических задач. Желание погрузиться в проект и учиться! Умение слышать и слушать. Стремление стать самостоятельным <highlighttext>разработчиком</highlighttext>."
+    },
+    {
+        "name": "Разработчик WordPress (Full-Stack)",
+        "salary": {
+            "from": 90000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129566461",
+        "description": "Опыт коммерческой разработки на WordPress от 2-3 лет. Глубокое знаение \"внутренней кухни\" WordPress: архитектура, хуки (actions/filters), WP Query..."
+    },
+    {
+        "name": "Python разработчик",
+        "salary": {
+            "from": null,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128677970",
+        "description": "Что нужно уметь: Опыт разработки с использованием Python (Flask, FastAPI). Опыт проектирования и разработки REST API. Проектирование и оптимизация архитектуры..."
+    },
+    {
+        "name": "Middle+/Senior Backend разработчик (Python/Golang/Rust)",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129503025",
+        "description": "Высшее образование (в сфере ИТ или техническое). Опыт продуктовой разработки на python/golang от 2-х лет. Базовый опыт работы..."
+    },
+    {
+        "name": "Android разработчик",
+        "salary": {
+            "from": null,
+            "to": 1500,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129596585",
+        "description": "Отличные знания Kotlin. Опыт работы с Android Architecture Components: ViewModel, LiveData, Room, Navigation. Отличные знания Android SDK. Практический опыт использования..."
+    },
+    {
+        "name": "Junior iOS-разработчик",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129520816",
+        "description": "Знание Swift и опыт работы с UIKit или SwiftUI. Понимание жизненного цикла iOS-приложений. Базовые знания паттернов проектирования. "
+    },
+    {
+        "name": "Junior Java Developer",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129375216",
+        "description": "Java 8+, Spring, Hibernate JPA, PostgreSQL, Git, JUnit, Kafka, Maven/Gradle. Плюсом будет: Docker, Kubernetes, CI/CD, Keycloak, микросервисы. "
+    },
+    {
+        "name": "Младший Java-разработчик (Junior Java Developer)",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129602566",
+        "description": "Опыт — участие в реальных проектах и возможность работать с актуальными технологиями. Ожидания от кандидата: Обязательные знания: Java 8+. Spring. "
+    },
+    {
+        "name": "Senior backend-разработчик Asterisk",
+        "salary": {
+            "from": null,
+            "to": 450000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129606321",
+        "description": "Senior backend-<highlighttext>разработчик</highlighttext> с глубоким опытом проектирования и разработки колл-центров на базе Asterisk и Asterisk REST Interface (ARI). "
+    },
+    {
+        "name": "Разработчик С# / .NET Core",
+        "salary": {
+            "from": 220000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129507026",
+        "description": "Опыт взаимодействия с frontend-<highlighttext>разработчиками</highlighttext> или опыт full-stack разработки (мы используем Angular для front-end). Понимание принципов разработки безопасных..."
+    },
+    {
+        "name": "Python разработчик",
+        "salary": {
+            "from": 149000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129610881",
+        "description": "Коммерческий опыт Python-разработки от 2–3 лет (рассмотрим сильных кандидатов “на вырост”). Уверенный Python 3.x, понимание ООП, типизация..."
+    },
+    {
+        "name": "Senior Frontend Developer",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128677768",
+        "description": "Опыт: 4+ лет коммерческой разработки фронтенд-приложений. Технологии: Глубокое знание React, Next.js, TypeScript и современных JavaScript-стандартов (ES6..."
+    },
+    {
+        "name": "Senior Quantitative Developer / Trading Infra Engineer (Python, Solana)",
+        "salary": {
+            "from": 650000,
+            "to": 750000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129594163",
+        "description": "Нам нужен не ресерчер и не «чистый квант», а инженер, который делает стратегию реальной сделкой — от сигнала ML-модели до..."
+    },
+    {
+        "name": "Business Development Manager (Web3 / Crypto)",
+        "salary": {
+            "from": 3000,
+            "to": 5000,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129565100",
+        "description": "Up to 2 years of experience in business <highlighttext>development</highlighttext>, partnerships, or sales in web3/fintech. Advanced/Fluent English (90..."
+    },
+    {
+        "name": "Программист-разработчик ПО",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129601599",
+        "description": "Уверенные знания C++ (стандарты C++14/17). Опыт разработки на Qt 5.x (Qt Widgets, Signals/Slots, Threads). "
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129573402",
+        "description": "Высшее образование. Знание любых из типовых конфигураций 1С: ERP, УТ 11, УТ 10, КА 2, УПП, БП 3, БП..."
+    },
+    {
+        "name": "Программист - Разработчик 1С",
+        "salary": {
+            "from": 255000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129577638",
+        "description": "Опыт работы <highlighttext>программистом</highlighttext>-<highlighttext>разработчиком</highlighttext> 1С не менее 6 лет. - Навыки написания и оформления отчетов. - Опыт создания и модификации дополнительных..."
+    },
+    {
+        "name": "ML/CV senior backend разработчик (Python)",
+        "salary": {
+            "from": 400000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129615097",
+        "description": "Глубокие знания python и опыт разработки на нем от 5 лет. Понимание высоконагруженных систем и микросервисных архитектур, принципов асинхронных event..."
+    },
+    {
+        "name": "Программист Embedded C/C++ Linux",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129575239",
+        "description": "Умение программировать на языке С/C++ на различных Linux платформах и на различных микроконтроллерах (STM, GD, NXP). Опыт администрирования Linux. "
+    },
+    {
+        "name": "Java / Kotlin разработчик (Software Engineer)",
+        "salary": {
+            "from": null,
+            "to": 450000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/107650257",
+        "description": "Java Spring от 3 лет. Хорошо понимать и иметь опыт интеграционных подходов между системами. Знание основ построения локальных архитектур (спроектировать..."
+    },
+    {
+        "name": "Младший iOS-разработчик",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129602539",
+        "description": "Соблюдение принципов SOLID и работа с GIT. - Участие в командной разработке и обмен опытом с коллегами. - Базовые знания Swift. - "
+    },
+    {
+        "name": "Стажер - программист 1С",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128830189",
+        "description": "Может уделять минимум 30 часов в неделю работе в офисе (в рабочее время – ПН-ПТ в промежутке с 08-00..."
+    },
+    {
+        "name": "Ruby бэкенд разработчик",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129610263",
+        "description": "Умение разбивать задачи и участвовать в планировании спринтов. Готовность обсуждать и признавать ошибки (все мы учимся). Инициативность и желание влиять..."
+    },
+    {
+        "name": "Frontend-разработчик (Junior frontend developer)",
+        "salary": {
+            "from": null,
+            "to": 58000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128972736",
+        "description": "Базовые знания JavaScript и React. Pixel-perfect и адаптивная верстка. Умение работать в команде. Желание учиться и расти вместе с..."
+    },
+    {
+        "name": "Senior Full-Stack Developer (Python/FastAPI/Telegram)",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129582374",
+        "description": "Уверенное владение Python для разработки API и бэкенда (FastAPI). Обязателен опыт работы с React для создания быстрых и функциональных GUI..."
+    },
+    {
+        "name": "Продуктовый/категорийный менеджер (product development)",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129592579",
+        "description": "Понимание принципов продуктового менеджмента и управления жизненным циклом продукта. Опыт работы по выводу СТМ. Опыт работы с non-FMCG категориями. "
+    },
+    {
+        "name": "PHP-разработчик (Yii1)",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129615673",
+        "description": "Имеешь опыт разработки на Yii1. Любишь работать \"руками\", выполняя как стратегические и интересные задачи, так и рутинные — в соотношении..."
+    },
+    {
+        "name": "Senior Backend Developer",
+        "salary": {
+            "from": 180000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129588157",
+        "description": "TypeScript на продвинутом уровне (strict mode, advanced types). Node.js 18+ (async/await, streams, event loop понимание). Fastify или аналогичные..."
+    },
+    {
+        "name": "Middle+ Backend-разработчика на PHP",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128668134",
+        "description": "От 5 лет коммерческого опыта разработки на PHP. Уверенное владение PHP 7.4+ и PHP 8.x. "
+    },
+    {
+        "name": "Стажер-программист 1С в it-компанию",
+        "salary": {
+            "from": 30000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129618191",
+        "description": "Техническое(!) высшее образование, оконченное(!). Практический опыт программирования на любом языке (не обязательно в среде 1С). Аналитический склад ума. "
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": {
+            "from": null,
+            "to": 240000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128816653",
+        "description": "Язык и фреймворки: уверенное владение Python, Django 5.0+, опыт работы с FastAPI. Базы данных: глубокие знания PostgreSQL (оптимизация..."
+    },
+    {
+        "name": "1С разработчик в Управляющую Компанию",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129617472",
+        "description": "Знание функционала платформы 1С: Предприятие 8.3 (управляемые, не управляемые формы). - Желателен опыт работы с типовыми решениями 1С..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129576249",
+        "description": "Знать типовые возможности конфигураций УТ 11, УТ 10 (КА, ERP в части торговли). Опыт перехода с доработанной УТ 10 на..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129605005",
+        "description": "Опыт коммерческой разработки на 1С 8.3 от 3-х лет. Глубокое знание Библиотеки стандартных подсистем (БСП) и стандартов..."
+    },
+    {
+        "name": "Senior Golang-разработчик",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129148194",
+        "description": "Коммерческий опыт Golang разработки от 3-х, идеально, если highload. Опыт работы с брокером сообщений RabbitMQ. Опыт работы с контейнеризацией..."
+    },
+    {
+        "name": "Senior Python-разработчик",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129600876",
+        "description": "Уверенное знание и опыт работы с фреймворками: Django, Flask, FastAPI. Опыт работы с базами данных: PostgreSQL, MySQL, MongoDB. "
+    },
+    {
+        "name": "Программист Битрикс24",
+        "salary": {
+            "from": 170000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129575984",
+        "description": "Дополнительное образование: Прохождение курсов и Сертификация Битрикс24. Владение информационными технологиями (ПО): Достаточно владение технологиями strong junior / pre-middle: PHP. "
+    },
+    {
+        "name": "Wordpress (woocommerce) разработчик/web-developer",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129607169",
+        "description": "Имеет опыт работы с WordPress и WooCommerce не менее 2 лет, включая настройку и кастомизацию плагинов. Готов к работе в..."
+    },
+    {
+        "name": "1С Программист | 1C Разработчик | 1С Developer",
+        "salary": {
+            "from": 220000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129617250",
+        "description": "Знание типовых программ УТ, БУ, Документооборот. - Создание XDTO-пакетов. - Опыт обновления измененных конфигураций. - Знание и понимание клиент-серверной части работы..."
+    },
+    {
+        "name": "Программист 1С:ERP",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129375799",
+        "description": "Успешный опыт работы в проектах внедрения ERP 2.4 (обязательно). Умение работать с расширениями конфигурации. Знание механизмов конвертации данных (КД..."
+    },
+    {
+        "name": "Senior Web Разработчик",
+        "salary": {
+            "from": 2500,
+            "to": 3200,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129213779",
+        "description": "Уверенный устный и письменный английский (B2+). Опыт коммерческой разработки от 5+ лет, опыт работы на уровне Senior. "
+    },
+    {
+        "name": "Junior разработчик колл-центра (Asterisk / ARI)",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129607619",
+        "description": "Asterisk REST Interface (ARI) — базовый уровень."
+    },
+    {
+        "name": "Senior Node.js Backend Developer в Соцсеть БАЗАР (Nest.js)",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129509845",
+        "description": "Понимаете, когда привнесение новой библиотеки или нового подхода принесёт пользу, а когда потребует только лишних усилий. Если не знаете чего..."
+    },
+    {
+        "name": "Pynton-разработчик",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128680840",
+        "description": "Опыт разработки на Python от 4 лет. - Знание фреймворков Django, Flask или FastAPI. - Опыт работы с базами данных (PostgreSQL, MySQL..."
+    },
+    {
+        "name": "Аккуратный WordPress-разработчик / Интегратор (частичная занятость)",
+        "salary": {
+            "from": 50000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129539486",
+        "description": "Опыт коммерческой разработки на WordPress от 4-х лет. Личные качества: педантичность, внимательность, любовь к порядку, ответственность. Позитивный настрой и..."
+    },
+    {
+        "name": "Разработчик С++ (Junior)",
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128419349",
+        "description": "Опыт коммерческой разработки на С++ от 1 года. Знание STL, metaprogramming, Atomic, POSIX API, shell, gcc/gdb. Опыт работы с..."
+    },
+    {
+        "name": "Программист 1C",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129534579",
+        "description": "Опыт программирования продуктов 1С более 3-х лет. Техническое, математическое, экономическое образование. Уверенное программирование в среде 1С:8..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129523029",
+        "description": "Программирование 1С:8 (обычные формы, управляемые формы, конвертация данных КД2) – обязательно. Опыт участия во внедрении, доработке 1С..."
+    },
+    {
+        "name": "PHP-разработчик",
+        "salary": {
+            "from": 100000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128576305",
+        "description": "Опыт промышленной разработки ПО от 1 года. Опыт разработки проектов на PHP7 + MySQL5 от 2-х лет. "
+    },
+    {
+        "name": "Node.js-разработчик",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129529949",
+        "description": "Опыт разработки на Node.js ( рассмотрим и пет-проекты). Понимание технологий веб-сервисов и HTTP протокола. Опыт работы с системами контроля..."
+    },
+    {
+        "name": "Web-программист",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/127204417",
+        "description": "Высшее профессиональное. Опыт верстки веб-интерфейсов. Знание HTML, CSS, JavaScript (TypeScript). Умение читать техническую документацию. Знание библиотеки React (Опыт работы..."
+    },
+    {
+        "name": "Middle PHP Developer",
+        "salary": {
+            "from": null,
+            "to": 240000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129382033",
+        "description": "Опыт работы в качестве PHP <highlighttext>разработчика</highlighttext> от 3 лет. Коммерческий опыт работы на Symfony от 3 лет. Опыт работы на..."
+    },
+    {
+        "name": "Инженер-программист PHP (начинающий специалист)",
+        "salary": {
+            "from": 108000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129572734",
+        "description": "Высшее техническое образование. Уверенный пользователь офисных программ, ОС Linux (Astra Linux или Debian) (администрирование, написание SHELL скриптов). Понимание структуры стандартов..."
+    },
+    {
+        "name": "Менеджер по развитию бизнеса (business development manager)",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129586144",
+        "description": "Опыт работы в В2В продажах или развитии продаж. Опыт работы в digital маркетинге/медийной площадке от 1 года. "
+    },
+    {
+        "name": "Инженер-электронщик (cхемотехник/программист микроконтроллеров)",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129618345",
+        "description": "Техническое образование в области радиоэлектроники. Знание современной базы электронных компонентов. Знание аналоговой и цифровой схемотехники. Знание языков программирования на языке..."
+    },
+    {
+        "name": "C# разработчик (офис)",
+        "salary": {
+            "from": 70000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129372716",
+        "description": "Высшее или неоконченное высшее техническое образование. Сильные аналитические качества. Уверенные знания основных алгоритмов и структур данных. Уверенное владение C#, .NET.. "
+    },
+    {
+        "name": "Программист 1С (сфера - оптово-розничная торговля)",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129329822",
+        "description": "Профильное образование и опыт работы <highlighttext>программистом</highlighttext> 1С в торгово-производственных компаниях, ИТС от 4-х лет. Экспертные знания и..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128446492",
+        "description": "Высшее техническое образование (специальность: математика, физика, программирование). Опыт работы с конфигурациями 1С: Бухгалтерия 8, 1С: Зарплата и Управление..."
+    },
+    {
+        "name": "Backend-разработчик/Desktop-разработчик",
+        "salary": {
+            "from": 120,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129363709",
+        "description": "Опыт самостоятельной или коллективной разработки web-сервисов от 1 года. - Опыт написания backend (желательно на python). - Опыт разработки API (RestAPI). - "
+    },
+    {
+        "name": "Начинающий инженер - программист low-code (офис)",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129372420",
+        "description": "Техническое образование. Базовые навыки программирования (приветствуются C#, Python, Java или 1С). Отсутствие боязни работы с \"железом\" (мобильные устройства/принтеры..."
+    },
+    {
+        "name": "Senior Business Development Manager",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129606643",
+        "description": "Опыт работы в b2b продажах и опыт взаимодействия с крупными клиентами. Понимание устройства рынка мобильной рекламы и знание..."
+    },
+    {
+        "name": "Angular-разработчик",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129617947",
+        "description": "Уверенное знание JavaScript/TypeScript, HTML и CSS. Понимание, как работает взаимодействие фронтенда с API. Внимательность к деталям, желание разбираться и..."
+    },
+    {
+        "name": "Разработчик Bitrix 24",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129468843",
+        "description": "Знание API Битрикс24, REST, Webhooks. Внедрение новых возможностей Bitrix24. Умение самостоятельно разобраться с задачей и проблемой, задавать необходимые..."
+    },
+    {
+        "name": "Business Development Manager (Crypto)",
+        "salary": {
+            "from": 2000,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129618055",
+        "description": "Опыт BD в Crypto от 3 лет. Наличие собственной базы теплых контактов, таких как криптокошельки, биржи, обменники и агрегаторы обмена. "
+    },
+    {
+        "name": "PHP-разработчик",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128985618",
+        "description": "Высшее техническое образование. Опыт работы на аналогичной позиции от 3-х лет. Опыт full-stack разработки. PHP, SQL, HTML5..."
+    },
+    {
+        "name": "Разработчик n8n по автоматизации и интеграциям",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129369465",
+        "description": "Самостоятельность и ответственность за результат. Готовность к командному взаимодействию с <highlighttext>разработчиками</highlighttext>. Понимание бизнес-логики и ориентация на практические решения. "
+    },
+    {
+        "name": "Инженер - программист PLC \\ ПЛК \\ АСУ \\ АСУТП (Москва)",
+        "salary": {
+            "from": 170000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129339230",
+        "description": "Проживание в Москве или МО (обязательно! ). Опыт работы инженером-<highlighttext>программистом</highlighttext> от 3 - х лет. Владение языками стандарта мэк 61131-3..."
+    },
+    {
+        "name": "Инженер-программист (промышленное и научное оборудование)",
+        "salary": {
+            "from": 160000,
+            "to": 220000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129587977",
+        "description": "Высшее тexническое или физико-математическое oбpaзoвание. Хорошие базовые знания Python и его стандартных библиотек. В частности, библиотек для математической обработки..."
+    },
+    {
+        "name": "Веб-программист PHP (Laravel)",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128651960",
+        "description": "Умение работать с PHP (ООП, версии 7.* и 8.*), опыт от 3 лет. Владение Laravel (от 3 лет). "
+    },
+    {
+        "name": "Senior Python разработчик",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128677763",
+        "description": "Сильного backend-<highlighttext>разработчика</highlighttext>: 5+ лет опыта на Python, глубокое знание асинхронного программирования (asyncio, FastAPI, SQLAlchemy). Опыт с Docker, Kubernetes..."
+    },
+    {
+        "name": "Go-разработчик | Senior+",
+        "salary": {
+            "from": null,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128658336",
+        "description": "Опыт коммерческой разработки на Go от 5 лет. Знание внутреннего устройства языка: горутины, каналы, планировщик, работа с памятью. "
+    },
+    {
+        "name": "Менеджер по развитию бизнеса / Business Development Manager",
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129501631",
+        "description": "Опыт B2B/проектных продаж (мебель/интерьеры/материалы/освещение/стройка) от 1–3 лет. Уверенные переговоры и закрытие сделок..."
+    },
+    {
+        "name": "Стажёр 1С в отдел корпоративных решений (начинающий разработчик/аналитик 1С)",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/127233672",
+        "description": "Техническое образование (оконченное или последний курс магистратуры/специалитета). Понимание, почему хочешь в 1С и чем эта область тебя привлекает..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 150000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129595940",
+        "description": "опыт работы на должности \"<highlighttext>Программист</highlighttext> 1С\" от 3-ех лет. -наличие сертификата 1С:Специалист является большим преимуществом при..."
+    },
+    {
+        "name": "Менеджер по работе с девелоперами",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/126471290",
+        "description": "Опыт успешного сотрудничества с ведущими <highlighttext>девелоперами</highlighttext>, строительными холдингами, архитектурными бюро и дизайнерскими студиями. Понимание специфики и бизнес-процессов в данной..."
+    },
+    {
+        "name": "Технолог-разработчик/R&D/Пищевые добавки",
+        "salary": {
+            "from": 170000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129601990",
+        "description": "Высшее образование в области пищевых технологий или химии. Опыт работы в области разработки пищевых добавок, контроля качества или лабораторных исследований. "
+    },
+    {
+        "name": "Главный программист",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/127204429",
+        "description": "Высшее профессиональное образование. Опыт в программировании на языке C# от 2 лет (.NET Core 2, .NET Core 3, .NET 5..."
+    },
+    {
+        "name": "Программист отдела эксплуатации информационных систем ФКУ \"ФРЦ МЧС России\"",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129607018",
+        "description": "Знание предметных областей: расчет ЗП, учет кадров, бухгалтерский учет. Понимание бизнес-процессов и архитектуры 1С. Умение формализовать постановку задачи..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 290000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129371746",
+        "description": "Высшее образование. Базовые знания основных правил бухгалтерского и налогового учета, учета заработной платы и кадров."
+    },
+    {
+        "name": "Инженер программист АСУ ТП",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129365016",
+        "description": "Опыт разработки ПО для ИТП, ЦТП, вентиляции, инженерных систем (обязательно). Опыт программирования ПЛК в CoDeSys (2.x–3.5) — от..."
+    },
+    {
+        "name": "Программист 1С Управление торговлей",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129590717",
+        "description": "Отличное знание языка 1С. Знание конфигураций: 1С:Ювелирный Торговый дом 10.7. 1С:Конвертация данных2. "
+    },
+    {
+        "name": "Business Development Manager (MENA)",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128955255",
+        "description": "Knowledge of payment specifics for PSP and FinTech industry. Experience in the payment industry (KAM/Sales/BDM). Negotiation experience. "
+    },
+    {
+        "name": "Backend Разработчик Node.js SQL API",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129376427",
+        "description": "Базовые знания Node.js и желание развиваться в backend-разработке. Понимание принципов работы с реляционными базами данных и умение писать SQL..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129522507",
+        "description": "Опыт работы в среде 1С от 3 лет. Опыт работы с типовыми решениями 1С (ERP, УТ, ЗУП,ДО). "
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 220000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128916921",
+        "description": "Знание платформы 1.с 8.3, конфигурации 1С: ERP. Понимание принципов учета."
+    },
+    {
+        "name": "1С Программист | 1C Разработчик | 1С Developer",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129618880",
+        "description": "Знание типовых программ УТ, БУ, Документооборот. - Опыт обновления измененных конфигураций. - Знание и понимание клиент-серверной части работы программы. "
+    },
+    {
+        "name": "Ведущий инженер-программист микроконтроллеров",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129383035",
+        "description": "Опыт работы с МК: Cortex-M3, Cortex-M4F (мы работаем с LPC, GD, НИИЭТ, STM32). - "
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129533859",
+        "description": "Опыт работы <highlighttext>программистом</highlighttext> 1С от 3-х лет. Уверенное знание платформы и практический опыт работы с типовыми конфигурациями (1..."
+    },
+    {
+        "name": "Разработчик 1С/Программист 1С",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129080852",
+        "description": "Владеет основными конструкциями языка 1С и понимает логику работы платформы. Уверенно пишет и читает запросы в 1С. "
+    },
+    {
+        "name": "Разработчик 1С Middle Senior",
+        "salary": {
+            "from": 250000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129615312",
+        "description": null
+    },
+    {
+        "name": "Веб-разработчик / Программист PHP / Fullstack",
+        "salary": {
+            "from": 130000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129359080",
+        "description": "Опыт коммерческой веб-разработки от 2 лет. Уверенные знания PHP и принципов ООП. Опыт backend-разработки на Node.js — будет плюсом. "
+    },
+    {
+        "name": "Инженер-программист встроенных систем",
+        "salary": {
+            "from": 180000,
+            "to": 220000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129493789",
+        "description": "Навыки программирования на языках С, C++, Python. Навыки разработки ПО под микроконтроллеры STM32 и аналоги. Навыки разработки ПО под..."
+    },
+    {
+        "name": "Web-разработчик Senior Web-разработчик (Tilda / Creatium)",
+        "salary": {
+            "from": 50000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129591461",
+        "description": "Обязательные требования (читайте внимательно): Опыт работы с Tilda от 1 года. Опыт работы с Creatium (обязательно). Уверенная работа с кодом..."
+    },
+    {
+        "name": "Разработчик C++",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/125396231",
+        "description": "Опыт коммерческой разработки от 1 года. Уверенные знания С++ (STL контейнеры и алгоритмы), Git, Qt. Умение собирать и разворачивать проекты..."
+    },
+    {
+        "name": "Автор студенческих работ по IT-направлению (программист, Python, C++, базы данных)",
+        "salary": {
+            "from": 218000,
+            "to": 218000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129619170",
+        "description": "Имеет профильное IT-образование или обучается на старших курсах с сильной базой. — Имеет опыт написания курсовых, дипломных, проектных и расчётных..."
+    },
+    {
+        "name": "Программист 1С Middle (розница, ККТ)",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129571383",
+        "description": "Опыт работы с конфигурациями Розница, Бухгалтерия, УТ."
+    },
+    {
+        "name": "Ведущий инженер-разработчик / инженер-схемотехник",
+        "salary": {
+            "from": 190000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129572913",
+        "description": "Техническое образование. Опыт работы в должности инженера-<highlighttext>разработчика</highlighttext> не менее 3-х лет. Знание основ электротехники и схемотехники. "
+    },
+    {
+        "name": "Технолог - разработчик, R&D (молочное производство)",
+        "salary": {
+            "from": 160000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129594584",
+        "description": "Опыт работы в молочной отрасли технологом или <highlighttext>разработчиком</highlighttext> от 5-ти лет. Хорошее знание технологии производства молочной продукции. "
+    },
+    {
+        "name": "Программист C#",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128674600",
+        "description": "Профессиональные навыки программирования. Знание языка программирования С# в объеме, необходимом для разработки объектно-ориентированных приложений, ПО для оборудования, ОС Windows. "
+    },
+    {
+        "name": "Senior+ Backend-разработчик (Node.js, Fastify, tRPC, Prisma, PostgreSQL)",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129515915",
+        "description": "3+ лет коммерческой разработки на Node.js и TypeScript (strict mode). ️Опыт с одним из веб‑фреймворков (Fastify/Express/Koa..."
+    },
+    {
+        "name": "Italian market_Business Development Manager / Sales Representative (Italia, B2B)",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129611565",
+        "description": "Опыт холодных B2B-продаж от 1 года (SDR/BDR/AM/Inside Sales) — обязательно. Итальянский — C1/C2..."
+    },
+    {
+        "name": "Системный программист (промышленное и научное оборудование)",
+        "salary": {
+            "from": 160000,
+            "to": 220000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129587499",
+        "description": "Высшее тexническое или физико-математическое образoвaние. Хорошие базовые знания Python и его стандартных библиотек. Знание C и C++ (последние стандарты..."
+    },
+    {
+        "name": "Fullstack-разработчик",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129150727",
+        "description": "У тебя есть опыт от 3-х лет с Django, FastAPI и React. Ты умеешь писать API, работал с асинхронностью..."
+    },
+    {
+        "name": "Business Development Manager (BizDev) | IGaming",
+        "salary": {
+            "from": 1500,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129379933",
+        "description": "Опыт работы Business <highlighttext>Development</highlighttext> от 2-х лет (Tier-3, WW). Английский от B2. Отличные навыки ведения переговоров. "
+    },
+    {
+        "name": "Разработчик образовательного контента / Копирайтер (Общие дисциплины бакалавриата)",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129371753",
+        "description": "Высшее педагогическое или психологическое образование как преимущество. Грамотная устная и письменная речь, владение профессиональным слогом. Исполнительность, ответственность, быстрая обучаемость, готовность..."
+    },
+    {
+        "name": "Разработчик 1С (WMS)",
+        "salary": {
+            "from": 120000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129601840",
+        "description": "3+ лет опыта разработки 1С. Уверенное знание принципов отладки (диагностика, устранение неисправностей, модернизация и т.д.). "
+    },
+    {
+        "name": "Playable Ads Developer",
+        "salary": {
+            "from": 1000,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129585956",
+        "description": "Обязательно иметь примеры работ и опыт в маркетинге для мобильных игр. - Уверенные навыки работы с Cocos Creator для создания 2..."
+    },
+    {
+        "name": "1С консультант-внедренец / разработчик-внедренец (маркетплейсы)",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129574831",
+        "description": "Опыт работы с 1С:Предприятие 8.3 от 2 лет. Уверенное знание языка 1С и понимание клиент-серверной..."
+    },
+    {
+        "name": "Ведущий инженер-программист (Системный аналитик – технический писатель (авиация))",
+        "salary": {
+            "from": 184000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129004637",
+        "description": "Умение понимать код на С. Владение языками нотаций UML, BPMN. Опыт работы с SRM. Английский уровня A2 и выше..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129603544",
+        "description": "Имеете опыт программирования на платформе \"1С:Предприятие\" от 3 лет (версии 8.3 и выше). Уверенно владеете встроенным языком..."
+    },
+    {
+        "name": "Middle PHP Developer",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/92354865",
+        "description": "Опыт коммерческой разработки от 2х лет. Уверенное владение PHP и одним из современных фреймворков. Опыт работы с Yii2..."
+    },
+    {
+        "name": "Программист Ассемблер",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129571984",
+        "description": "Желательно профильное высшее образование по направлению подготовки «Информационная безопасность». Знание низкоуровневых языков программирования Ассемблер x86 и других процессорных архитектур..."
+    },
+    {
+        "name": "Инженер-разработчик ПОС",
+        "salary": {
+            "from": 150000,
+            "to": 170000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129331282",
+        "description": "Высшее строительное образование (желательно Мосты и Тоннели). Стаж работы инженером ПТО."
+    },
+    {
+        "name": "Инженер-программист АСУ ТП",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128445795",
+        "description": "Умение читать техническую документацию. Опыт программирования контроллеров DELTA. Умение составлять электросхемы. Обязательное знание принципа работы пневматики и пневмоустройств. "
+    },
+    {
+        "name": "Инженер-программист АСУ",
+        "salary": {
+            "from": 130000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129344702",
+        "description": "В отдел прикладной разработки открыта новая позиция Инженера-<highlighttext>программиста</highlighttext> АСУ с опытом от 1 года по автоматизации систем управления. "
+    },
+    {
+        "name": "Разработчик C++ / Qt (Linux/Windows)",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128667662",
+        "description": "Опыт коммерческой разработки на C++ не менее 1 года. - Уверенное владение C++ начиная с стандарта C++11. - Уверенное владение фреймворком..."
+    },
+    {
+        "name": "Разработчик С++ (Middle)",
+        "salary": {
+            "from": 180000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128400610",
+        "description": "Опыт коммерческой разработки на C++ не менее 3 лет. Опыт работы с низкоуровневыми сетями, многопоточностью и асинхронностью. Знание С++(11..."
+    },
+    {
+        "name": "Разработчик Битрикс24",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129070915",
+        "description": "Опыт разработки на платформе Битрикс24 от 1 года. Умение работать с REST API Битрикс24. Знания и навыки в..."
+    },
+    {
+        "name": "Разработчик встроенных систем (Embedded Developer)",
+        "salary": {
+            "from": 220000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129076020",
+        "description": "Опыт управления быстродействующими электромеханическими устройствами. Написание алгоритмов автоматического регулирования и управление по событиям с использованием конечных автоматов. Обработка сигналов и..."
+    },
+    {
+        "name": "Технолог-разработчик косметической продукции",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/124448062",
+        "description": "ЗП зависит от вашего опыта в разработке косметических средств и будет обсуждаться с кандидатом по результатам собеседования, и тестового задания. "
+    },
+    {
+        "name": "Старший программист 1С (офис)",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/116359513",
+        "description": "Высшее техническое образование. Опыт работы <highlighttext>программистом</highlighttext> 1С от 2-х лет. Наличие в активе внедренных проектов, личное участие в..."
+    },
+    {
+        "name": "Программист 1С",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129338797",
+        "description": "Высшее техническое образование. Аналогичный опыт работы от 3-х лет. Наша компания ценит преданность сотрудников и поощряет длительный стаж работы..."
+    },
+    {
+        "name": "Менеджер по развитию бизнеса (Business Development Manager)",
+        "salary": {
+            "from": 80000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129606112",
+        "description": "Консультативный подход, умение создавать доверие. Системность, терпение и внимательность к клиенту. Умение координировать внутреннюю команду для выполнения клиентских проектов. "
+    },
+    {
+        "name": "Разработчик 1С",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/127541656",
+        "description": "Опыт администрирования, обновления, доработки и сопровождения 1С (Бухгалтерия, ЗУП, УНФ) от 3 лет. Применение основных паттернов и архитектурных решений..."
+    },
+    {
+        "name": "Инженер-программист I категории",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128368731",
+        "description": "Высшее образование (магистратура/специалитет). Навыки работы в языке программирования LUA. Дополнительным преимуществом будет знание других языков (Python, Java, C++), опыт..."
+    },
+    {
+        "name": "Ведущий программист 1С",
+        "salary": {
+            "from": 240000,
+            "to": 290000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/126025973",
+        "description": "Практический опыт в реализации проектов по интеграции, переносе нетиповой базы данных в 1С8.3. Опыт программирования в 1..."
+    },
+    {
+        "name": "Менеджер по сопровождению ключевых клиентов (B2B, девелоперы и строительные компании)",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129087310",
+        "description": "Умение договариваться и доводить сделки до результата. Опыт работы с договорной документацией со стороны продаж. (договоры, допсоглашения, счета, акты, КС..."
+    },
+    {
+        "name": "Разработчик MS SSAS (Microsoft SQL Server Analysis Services)",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129533312",
+        "description": "Опыт проектной разработки, развертывания и эксплуатации OLAP инфраструктуры на MS SSAS. Экспертные знания по языку запросов MS SQL. "
+    },
+    {
+        "name": "Ведущий инженер-программист (Разработчик встраиваемого ПО (middle))",
+        "salary": {
+            "from": 230000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129003935",
+        "description": "Опыт разработки встраиваемых систем на языке С. Опыт работы на позиции <highlighttext>разработчика</highlighttext> embedded software от 3 лет. Опыт работы с..."
+    },
+    {
+        "name": "Ведущий программист 1С",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128485797",
+        "description": "Уверенные опыт и навыки программирования 1C 8, язык запросов, СКД. Знание конфигураций УТ 10.3, УТ 11, ERP, Бухгалтерия. "
+    },
+    {
+        "name": "Технический специалист/разработчик по CRM",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128669763",
+        "description": "Опыт работы от 3-х лет на позиции CRM-интегратора, системного администратора или архитектора в e-commerce / сфере услуг. "
+    },
+    {
+        "name": "Разработчик ЦФТ (IBSO)",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/127484396",
+        "description": "<highlighttext>Разработчики</highlighttext>, со знанием платформы ЦФТ (IBSO/R2) и опытом разработки на PL+. Требования: Обязательно владение PL+ и PL/SQL. "
+    },
+    {
+        "name": "Инженер-разработчик аппаратного обеспечения (Hardware Engineer)",
+        "salary": {
+            "from": 140000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128878680",
+        "description": "Высшее техническое образование. Знание основ силовой, аналоговой и цифровой схемотехники. Уверенное владение системами автоматизированного проектирования (САПР): Altium Designer, KiCad или..."
+    },
+    {
+        "name": "Инженер-программист",
+        "salary": {
+            "from": 127000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128077706",
+        "description": "Знание современного металлорежущего инструмента и стратегий обработки деталей на оборудовании с ЧПУ. Практический опыт по подбору режущего инструмента для обработки..."
+    },
+    {
+        "name": "Программист-консультант 1С",
+        "salary": {
+            "from": 230000,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129608636",
+        "description": "Опыт от 3 лет в разработке/сопровождении одной или нескольких типовых конфигураций 1С из перечня: УТ11, КА2..."
+    },
+    {
+        "name": "Программист 1С ERP",
+        "salary": {
+            "from": null,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128917823",
+        "description": "Опыт настройки бесшовной интеграции 1С ERP с 1С ДО, обмена с 1С ЗУП 3.1. "
+    },
+    {
+        "name": "Инженер-разработчик принципиальных схем",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/125900365",
+        "description": "Знание AutoCad, Eplan, Solid works electrical."
+    },
+    {
+        "name": "Разработчик C++ (Ardupilot)",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/125976126",
+        "description": "Опыт работы с проектами с открытым исходным кодом и сообществами <highlighttext>разработчиков</highlighttext>, в частности Ardupilot. Уверенные знания С++ (STL контейнеры и..."
+    },
+    {
+        "name": "Инженер-программист C и C++",
+        "salary": {
+            "from": 160000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/125880052",
+        "description": "Высшее или неполное высшее техническое образование. Уверенное знание C и C++. Понимание принципов работы сетевых протоколов (UDP, TCP/IP, HTTP). "
+    },
+    {
+        "name": "Ведущий инженер-программист 1С",
+        "salary": {
+            "from": 280000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128383450",
+        "description": "Обладает навыками администрирования SQL сервера и сервера 1С: анализ и решение проблем производительности. Понимание механизмов транзакционных блокировок, а также..."
+    },
+    {
+        "name": "Менеджер по работе с девелоперами (Проектные продажи)",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/127001835",
+        "description": "Понимание структуры строительного и архитектурного проекта. Опыт работы с проектными организациями и понимание технологий проектных продаж (B2B и..."
+    },
+    {
+        "name": "Ведущий инженер-программист",
+        "salary": {
+            "from": 184600,
+            "to": 184600,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/127178844",
+        "description": "Высшее образование. Практический опыт: Разработка кроссплатформенных приложений. Опыт работы над крупными проектами. Умение писать чистый и поддерживаемый код. "
+    },
+    {
+        "name": "Ведущий программист 1С: ЗУП",
+        "salary": {
+            "from": 290000,
+            "to": 290000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129532302",
+        "description": "Высшее образование. Опыт работы с 1С ЗУП 2.5 и ЗУП 3.1. Опыт разработки технических заданий. "
+    },
+    {
+        "name": "Верстальщик-программист научных книг/Дизайнер-верстальщик (LaTeХ/Word/Photoshop/CorelDraw)",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129187260",
+        "description": "Профессиональное владение программами LaTeX или Word, с использованием всего инструментария соответствующих программ (автоматизация ссылок, работа с указателями, регулярными выражениями и..."
+    },
+    {
+        "name": "Flutter-разработчик",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128538140",
+        "description": "От 3 лет опыта практической работы в области мобильной разработки, с основным акцентом на Flutter. Подтвержденный опыт работы с Dart..."
+    },
+    {
+        "name": "Инженер-программист в области строительства котельных (инженер АСУ ТП)",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129354322",
+        "description": "Высшее техническое образование. Опыт работы от 1 до 3 лет в области автоматизации и электроснабжения котельных. Навыки работы с контроллерами..."
+    },
+    {
+        "name": "Программист 1С / Разработчик 1С",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129069138",
+        "description": "Уверенный опыт разработки на платформе 1С:Предприятие 8.3 от 1 года. Глубокое знание механизмов платформы 1С: СКД..."
+    },
+    {
+        "name": "Ведущий программист 1С ЗУП",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/126788959",
+        "description": "Опыт работы с конфигурациями 1С ЗУП обязателен. Хорошее знание основ бухгалтерского и налогового учета. Знание законодательства по зарплате и..."
+    },
+    {
+        "name": "CTO / Senior Backend-разработчик (Ruby on Rails)",
+        "salary": {
+            "from": null,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129143120",
+        "description": "5+ лет коммерческой разработки, в том числе на senior/lead ролях. Глубокую экспертизу в Ruby on Rails. "
+    },
+    {
+        "name": "DevOps-инженер/middle Python разработчик",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128677756",
+        "description": "Kubernetes и Helm чарты руками с закрытыми глазами. Опыт построения отказоустойчивых систем. Понимание GitLab CI/CD. Cloud-платформы (Selectel, AWS..."
+    },
+    {
+        "name": "Главный специалист по разработке 1С / Разработчик / Программист",
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/109783056",
+        "description": "Образование – высшее профильное профессиональное (специалитет, магистратура). Опыт разработки на платформе 1С:Предприятие 8.3 от 3 лет. "
+    },
+    {
+        "name": "Инженер-программист микроконтроллеров",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/127051527",
+        "description": "Ввсшее (или 4-5 курс ВУЗа при условии, что есть увлечение указанным видом деятельности и самостоятельные проекты в обозначенной области). "
+    },
+    {
+        "name": "Fullstack-разработчик (Vue 3 + Symfony)",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128661453",
+        "description": "Symfony. MySQL. Redis. Опыт коммерческой разработки: 3+ года. Уверенное знание Vue 3 и Symfony. Понимание принципов e-commerce: товарооборот..."
+    },
+    {
+        "name": "1C разработчик",
+        "salary": {
+            "from": 260000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128674547",
+        "description": "Есть опыт оптимизации работы конфигураций. Практический опыт работы с Web-сервисами, HTTP-сервисами, пакетами XDTO. Понимание принципов работы временных таблиц..."
+    },
+    {
+        "name": "Разработчик 1С по WMS/TMS системам Axelot",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/126739444",
+        "description": "Какие навыки и знания потребуются: Опыт работы с Axelot WMS и TMS - обязательно. Обладает знаниями и опытом работы с технологиями..."
+    },
+    {
+        "name": "Разработчик СВЧ-модулей для радиоэлектронных устройств",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/127075211",
+        "description": "Высшее техническое образование (среднее техническое – по согласованию), направление – радиотехническое, приоритет – авиационные радиолокационные системы). Опыт разработки и проектирования СВЧ-устройств и..."
+    },
+    {
+        "name": "Разработчик 1С (ЗУП)",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128678713",
+        "description": "Опыт работы не менее 6-и лет в 1С-разработке. Знание типовых конфигураций 1С ЗУП 3.1, БП..."
+    },
+    {
+        "name": "Математик-программист",
+        "salary": {
+            "from": 127500,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128145185",
+        "description": "Отличное понимание тригонометрии, линейной алгебры, дифференциального и интегрального исчисления. Понимание навигационных алгоритмов. Наличие основ робототехники. Знание фильтра Калмана, Маджвика, комплиментарных..."
+    },
+    {
+        "name": "Инженер-программист (SDR / DSP)",
+        "salary": {
+            "from": 277500,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/126616667",
+        "description": "Умение работать в MATLAB для моделирования радио-канала. Умение работать в Multipath fading. Умение работать в Simulink. Опыт разработки на..."
+    },
+    {
+        "name": "Инженер-программист встраиваемых систем",
+        "salary": {
+            "from": 127500,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/126774899",
+        "description": "Готовность к командировкам. Опыт разработки на C/C++ для bare‑metal и RTOS (FreeRTOS, Zephyr) на ARM. Опыт работы с..."
+    },
+    {
+        "name": "Программист ПЛИС (FPGA)",
+        "salary": {
+            "from": 277500,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/126616794",
+        "description": "Техническое образование. Знание языков VHDL, Verilog. Большой опыт работы в САПР Vivado (разработка, отладка). Большой опыт работы в ModelSim. "
+    },
+    {
+        "name": "Разработчик встраиваемого ПО / Embedded developer",
+        "salary": {
+            "from": 127500,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128055098",
+        "description": "Базовое знание Python: PyQt, pandas, numpy, requests, threading, socket, telebot, pyserial, folium. Базовое знание Linux. Базовое знание C/С++. "
+    },
+    {
+        "name": "Java / Flutter разработчик",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129586322",
+        "description": "Наличие знаний по вашему стеку для успешного выполнения поставленных задач. Понимание рынка социальных приложений. Умение работать в команде и самостоятельно. "
     }
 ]

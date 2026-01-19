@@ -73,7 +73,7 @@ class DBPopulator:
             					"requirement": item.get("snippet", {}).get("requirement", "No requirement"),
             					"responsibility": item.get("snippet", {}).get("responsibility", "No responsibility")
             				}
-            			vacancies.append(vacancy)
+            				vacancies.append(vacancy)
         except Exception as e:
             print(f"Error fetching vacancies: {e}")
         
